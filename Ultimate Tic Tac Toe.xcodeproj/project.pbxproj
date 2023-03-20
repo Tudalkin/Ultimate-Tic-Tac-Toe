@@ -11,6 +11,7 @@
 		096EF05A29BFE9AE00BA27C6 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 096EF05929BFE9AE00BA27C6 /* OpenGL.framework */; };
 		096EF05C29BFE9B400BA27C6 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 096EF05B29BFE9B400BA27C6 /* GLUT.framework */; };
 		09E16BAE29C910B4002FDA31 /* game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 09E16BAD29C910B4002FDA31 /* game.cpp */; };
+		09E16BB029C927E5002FDA31 /* startingMenu.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 09E16BAF29C927E5002FDA31 /* startingMenu.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +33,7 @@
 		096EF05B29BFE9B400BA27C6 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		096EF06129C132C200BA27C6 /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		09E16BAD29C910B4002FDA31 /* game.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = game.cpp; sourceTree = "<group>"; };
+		09E16BAF29C927E5002FDA31 /* startingMenu.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = startingMenu.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				096EF05129BFE92100BA27C6 /* main.cpp */,
 				096EF06129C132C200BA27C6 /* README */,
 				09E16BAD29C910B4002FDA31 /* game.cpp */,
+				09E16BAF29C927E5002FDA31 /* startingMenu.cpp */,
 			);
 			path = "Ultimate Tic Tac Toe";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				096EF05229BFE92100BA27C6 /* main.cpp in Sources */,
+				09E16BB029C927E5002FDA31 /* startingMenu.cpp in Sources */,
 				09E16BAE29C910B4002FDA31 /* game.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
