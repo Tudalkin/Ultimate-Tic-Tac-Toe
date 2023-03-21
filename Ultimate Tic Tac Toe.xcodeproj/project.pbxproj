@@ -27,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		095F67A729CCF15300064BA0 /* startingMenu.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = startingMenu.h; sourceTree = "<group>"; };
 		096EF04E29BFE92100BA27C6 /* Ultimate Tic Tac Toe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Ultimate Tic Tac Toe"; sourceTree = BUILT_PRODUCTS_DIR; };
 		096EF05129BFE92100BA27C6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		096EF05929BFE9AE00BA27C6 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
@@ -73,6 +74,7 @@
 				096EF06129C132C200BA27C6 /* README */,
 				09E16BAD29C910B4002FDA31 /* game.cpp */,
 				09E16BAF29C927E5002FDA31 /* startingMenu.cpp */,
+				095F67A729CCF15300064BA0 /* startingMenu.h */,
 			);
 			path = "Ultimate Tic Tac Toe";
 			sourceTree = "<group>";
